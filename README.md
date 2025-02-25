@@ -4,11 +4,9 @@
     <img src="https://ik.imagekit.io/a210gfzra/GestorPro/logo_rh.png?updatedAt=1740509915787" title="Logo - RH" width="40%"/>
 </div>
 
-## A aplicação de gestão de funcionários oferece uma solução prática para o cadastro, consulta e manutenção de dados essenciais dos colaboradores. Desenvolvido com Vite, React, TypeScript, Node.js e NestJS, o sistema proporciona uma interface ágil e uma estrutura robusta para gerenciar informações como nome, e-mail, cargo, salário e foto, além de garantir fácil acesso e atualização constante dos registros.
-
 ## 1. Descrição 📜
 
-O projeto é um sistema de gestão de funcionários que facilita o cadastro e a consulta de dados essenciais, como nome, e-mail, cargo, salário e foto. Com uma interface intuitiva e responsiva, permite que os usuários realizem buscas e gerenciem informações de forma eficiente.
+A aplicação de gestão de funcionários oferece uma solução prática para o cadastro, consulta e manutenção de dados essenciais dos colaboradores. Desenvolvido com Vite, React, TypeScript, Node.js e NestJS, o sistema proporciona uma interface ágil e uma estrutura robusta para gerenciar informações como nome, e-mail, cargo, salário e foto, além de garantir fácil acesso e atualização constante dos registros.
 
 ------
 
