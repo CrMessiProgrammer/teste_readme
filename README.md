@@ -1,14 +1,16 @@
 # GestorPro - Sistema de RH ⚛️📝
 
+<div align="center">
     <img src="https://ik.imagekit.io/a210gfzra/GestorPro/logo_rh.png?updatedAt=1740509915787" title="source: imgur.com" width="50%"/>
+</div>
 
-## 1. Descrição ✍🏼
+## 1. Descrição 📜
 
 *O projeto é um sistema de gestão de funcionários que facilita o cadastro e a consulta de dados essenciais, como nome, e-mail, cargo, salário e foto. Com uma interface intuitiva e responsiva, permite que os usuários realizem buscas e gerenciem informações de forma eficiente.*
 
 ------
 
-## 2. Recursos 🧑🏼‍💻👩🏼‍💻
+## 2. Recursos
 
 1. Cadastro de Funcionários – Interface intuitiva para adicionar novos colaboradores.
 2. Consulta e Listagem – Exibição detalhada dos funcionários cadastrados.
