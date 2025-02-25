@@ -4,13 +4,13 @@
     <img src="https://ik.imagekit.io/a210gfzra/GestorPro/logo_rh.png?updatedAt=1740509915787" title="source: imgur.com" width="50%"/>
 </div>
 
-## 1. Descrição
+## 1. Descrição ✍🏼
 
 *O projeto é um sistema de gestão de funcionários que facilita o cadastro e a consulta de dados essenciais, como nome, e-mail, cargo, salário e foto. Com uma interface intuitiva e responsiva, permite que os usuários realizem buscas e gerenciem informações de forma eficiente.*
 
 ------
 
-## 2. Recursos
+## 2. Recursos 🧑🏼‍💻👩🏼‍💻
 
 1. Cadastro de Funcionários – Interface intuitiva para adicionar novos colaboradores.
 2. Consulta e Listagem – Exibição detalhada dos funcionários cadastrados.
@@ -26,7 +26,7 @@
 
 ------
 
-## 3. Protótipo e Capturas de Tela
+## 3. Protótipo e Capturas de Tela 🤖
 
 *Adicione print da tela inicial e/ou o link do protótipo no Figma (se houver)*
 
@@ -40,7 +40,7 @@
 
 ------
 
-## 4. Tecnologias
+## 4. Tecnologias 🛠️
 
 | Item                         | Descrição  |
 | ---------------------------- | ---------- |
@@ -54,7 +54,7 @@
 
 ------
 
-## 5. Pré-requisitos
+## 5. Pré-requisitos 🧩
 
 Antes de iniciar, certifique-se de ter as seguintes ferramentas instaladas:
 
@@ -64,7 +64,7 @@ Antes de iniciar, certifique-se de ter as seguintes ferramentas instaladas:
 
 ------
 
-## 6. Configuração e Execução
+## 6. Configuração e Execução ⚙️
 
 1. Clone o repositório do Projeto
 2. Instale as dependências: `yarn`
@@ -76,7 +76,7 @@ Antes de iniciar, certifique-se de ter as seguintes ferramentas instaladas:
 
 ------
 
-## 7. Estrutura do Projeto
+## 7. Estrutura do Projeto 📁
 
 ```plaintext
 src/
@@ -91,7 +91,7 @@ src/
 ```
 
 ------
-## 8. Como Contribuir
+## 8. Como Contribuir 🤝
 
 1. Faça um fork do projeto
 2. Crie uma branch com a sua feature (`git checkout -b minha-feature`)
