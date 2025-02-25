@@ -28,8 +28,6 @@
 
 ## 3. Protótipo e Capturas de Tela
 
-
-
 *Adicione print da tela inicial e/ou o link do protótipo no Figma (se houver)*
 
 <div align="center">
@@ -54,7 +52,7 @@
 | **Framework do Backend    ** | NestJS     |
 
 
----
+------
 
 ## 5. Pré-requisitos
 
@@ -64,7 +62,7 @@ Antes de iniciar, certifique-se de ter as seguintes ferramentas instaladas:
 - yarn (https://yarnpkg.com/)
 - API NestJS API NestJS (https://docs.nestjs.com/)
 
----
+------
 
 ## 6. Configuração e Execução
 
@@ -76,7 +74,7 @@ Antes de iniciar, certifique-se de ter as seguintes ferramentas instaladas:
 6. Execute o Projeto React: `yarn dev`
 7. A aplicação React estará disponível no endereço: `http://localhost:5173`
 
----
+------
 
 ## 7. Estrutura do Projeto
 
@@ -92,8 +90,7 @@ src/
 └── App.tsx           # Componente principal da aplicação
 ```
 
----
-
+------
 ## 8. Como Contribuir
 
 1. Faça um fork do projeto
