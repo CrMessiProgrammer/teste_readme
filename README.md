@@ -1,7 +1,5 @@
 # GestorPro - Sistema de RH 📝
 
-<br />
-
 <div align="center">
     <img src="https://ik.imagekit.io/a210gfzra/GestorPro/logo_rh.png?updatedAt=1740509915787" title="source: imgur.com" width="50%"/>
 </div>
@@ -20,7 +18,7 @@
 4. Edição e Atualização – Possibilidade de modificar dados existentes.
 5. Remoção Segura – Exclusão com confirmação para evitar erros acidentais.
 
-# Features Especiais: #
+## Features Especiais:
 1. Interface Responsiva – Adaptável para diferentes dispositivos.
 2. Upload de Imagem – Inclusão de foto para melhor identificação dos funcionários.
 3. Notificações e Feedback – Alertas para ações como cadastro, edição e remoção.
