@@ -1,7 +1,7 @@
 # GestorPro - Sistema de RH ⚛️📝
 
 <div align="center">
-    <img src="https://ik.imagekit.io/a210gfzra/GestorPro/logo_rh.png?updatedAt=1740509915787" title="Logo - RH" width="35%"/>
+    <img src="https://ik.imagekit.io/a210gfzra/GestorPro/logo_rh.png?updatedAt=1740509915787" title="Logo - RH" width="40%"/>
 </div>
 
 ## 1. Descrição 📜
