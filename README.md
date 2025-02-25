@@ -18,7 +18,7 @@ A aplicação de gestão de funcionários oferece uma solução prática para o 
 4. Edição e Atualização – Possibilidade de modificar dados existentes.
 5. Remoção Segura – Exclusão com confirmação para evitar erros acidentais.
 
-## Features Especiais:
+### Features Especiais:
 1. Interface Responsiva – Adaptável para diferentes dispositivos.
 2. Upload de Imagem – Inclusão de foto para melhor identificação dos funcionários.
 3. Notificações e Feedback – Alertas para ações como cadastro, edição e remoção.
