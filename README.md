@@ -6,8 +6,6 @@
     <img src="https://ik.imagekit.io/a210gfzra/GestorPro/logo_rh.png?updatedAt=1740509915787" title="source: imgur.com" width="50%"/>
 </div>
 
-<br /><br />
-
 ## 1. Descrição
 
 *O projeto é um sistema de gestão de funcionários que facilita o cadastro e a consulta de dados essenciais, como nome, e-mail, cargo, salário e foto. Com uma interface intuitiva e responsiva, permite que os usuários realizem buscas e gerenciem informações de forma eficiente.*
