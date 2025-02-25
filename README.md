@@ -1,4 +1,4 @@
-# GestorPro - Sistema de RH 
+# GestorPro - Sistema de RH 📝
 
 <br />
 
