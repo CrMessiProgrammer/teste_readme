@@ -1,4 +1,4 @@
-# GestorPro - Sistema Gestão de Funcionários (RH) 📝
+# 💻 GestorPro - Sistema Gestão de Funcionários (RH) 📝
 
 <div align="center">
     <img src="https://ik.imagekit.io/a210gfzra/GestorPro/logo_rh.png?updatedAt=1740509915787" title="Logo - RH" width="40%"/>
