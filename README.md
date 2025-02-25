@@ -57,8 +57,8 @@ A aplicação de gestão de funcionários oferece uma solução prática para o 
 
 Antes de iniciar, certifique-se de ter as seguintes ferramentas instaladas:
 
-- Node.js (https://nodejs.org/) (v16+)
-- yarn (https://yarnpkg.com/)
+- [Node.js] (https://nodejs.org/) (v16+)
+- [yarn] (https://yarnpkg.com/)
 - API NestJS API NestJS ([Repositório da API](https://github.com/Projeto-Integrador-Modelo-Gp01-Js06/rh-backend))
 
 ------
