@@ -61,8 +61,8 @@
 Antes de iniciar, certifique-se de ter as seguintes ferramentas instaladas:
 
 - Node.js (https://nodejs.org/) (v16+)
-- [yarn](https://yarnpkg.com/)
-- API NestJS API NestJS (https://docs.nestjs.com/openapi/introduction)
+- yarn (https://yarnpkg.com/)
+- API NestJS API NestJS (https://docs.nestjs.com/)
 
 ---
 
