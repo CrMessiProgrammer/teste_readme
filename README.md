@@ -3,7 +3,7 @@
 <br />
 
 <div align="center">
-    <img src="https://i.imgur.com/AzshGmS.png" title="source: imgur.com" width="50%"/>
+    <img src="https://ik.imagekit.io/a210gfzra/GestorPro/logo_rh.png?updatedAt=1740509915787" title="source: imgur.com" width="50%"/>
 </div>
 
 <img src:"https://ik.imagekit.io/a210gfzra/GestorPro/logo_rh.png?updatedAt=1740509915787" title="Logo - Sistema RH" width="50%" />
