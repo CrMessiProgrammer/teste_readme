@@ -30,12 +30,8 @@ A aplicação de gestão de funcionários oferece uma solução prática para o 
 
 <div align="center">
     <img src="https://ik.imagekit.io/m1iwfxqae/ProjetoIntegrador-GestorPro.svg?updatedAt=1740587657143" title="Protótipo - Figma" width="50%"/>
-    [Protótipo desenvolvido no Figma]
 </div>
-<div align="center">
-    [Protótipo desenvolvido no Figma]
-</div>
-
+[Protótipo desenvolvido no Figma]}
 
 ------
 
