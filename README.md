@@ -34,7 +34,7 @@ A aplicação de gestão de funcionários oferece uma solução prática para o 
 
 <br />
 
-<a href="https://imgur.com/vK8ulM5"><img src="https://i.imgur.com/vK8ulM5.png" title="source: imgur.com" width="3%"/></a> [Protótipo desenvolvido no Figma](link para o Figma do Projeto)
+<a href="https://ik.imagekit.io/m1iwfxqae/ProjetoIntegrador-GestorPro.svg?updatedAt=1740587657143"/></a> [Protótipo desenvolvido no Figma](link para o Figma do Projeto)
 
 ------
 
