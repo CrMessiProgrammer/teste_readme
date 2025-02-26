@@ -29,12 +29,12 @@ A aplicação de gestão de funcionários oferece uma solução prática para o 
 ## 3. Protótipo e Capturas de Tela 🖼️
 
 <div align="center">
-    <img src="https://ik.imagekit.io/m1iwfxqae/ProjetoIntegrador-GestorPro.svg?updatedAt=1740587657143" title="Figma" width="50%"/>
+    <img src="https://ik.imagekit.io/m1iwfxqae/ProjetoIntegrador-GestorPro.svg?updatedAt=1740587657143" title="Protótipo - Figma" width="50%"/>
 </div>
 
 <br />
 
-<a href="https://ik.imagekit.io/m1iwfxqae/ProjetoIntegrador-GestorPro.svg?updatedAt=1740587657143"/></a> [Protótipo desenvolvido no Figma](link para o Figma do Projeto)
+<a href="https://ik.imagekit.io/m1iwfxqae/ProjetoIntegrador-GestorPro.svg?updatedAt=1740587657143" title="Protótipo - Figma" width="3%"/></a> [Protótipo desenvolvido no Figma](link para o Figma do Projeto)
 
 ------
 
