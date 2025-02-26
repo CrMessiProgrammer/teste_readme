@@ -81,11 +81,9 @@ Antes de iniciar, certifique-se de ter as seguintes ferramentas instaladas:
 src/
 │
 ├── components/       # Componentes reutilizáveis
-├── contexts/         # Gerenciamento de estado global (ex: autenticação)
 ├── models/           # Estrutura de dados da aplicação-
 ├── pages/            # Páginas da aplicação
 ├── services/         # Integração com a API (requisições HTTP)
-├── utils/            # Funções auxiliares (alerts)
 └── App.tsx           # Componente principal da aplicação
 ```
 
